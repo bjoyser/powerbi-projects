@@ -1,0 +1,73 @@
+Financial Data Analysis with Power BI
+----------------------------------------
+
+Overview
+--------
+This project leverages Power BI to analyze a financial dataset, providing insights into sales, profit, discounts, and other key metrics. It includes interactive visuals and a user-friendly layout to demonstrate data.
+
+Data Description
+----------------
+Fields included:
+
+Customer & Sales Data: Segment, Country, Product.
+Pricing & Cost: Discount Brand, Units Sold, Manufacturing Cost, COGS.
+Revenue Metrics: Sale Price, Gross Sales, Discounts, Sales, Profit.
+Time: Date, Month, Year.
+
+Goals
+------
+1. Data Import & Preprocessing: Clean and prepare data for analysis.
+
+2. Visualizations: 7 visuals to present insights.
+
+3. Interactivity: Add buttons, bookmarks, and images.
+
+4. Layout: Clear titles, consistent colors.
+
+5. Insights: Highlight trends and patterns.
+
+Components
+-----------
+1. Data Prep: Imported, formatted, and created a Date Table.
+
+2. Visuals:
+
+product by gross sales
+
+profit overtime by month
+
+share of unit sold by segments
+
+sales by country and year
+
+KPIs
+
+sales by country
+
+financial metrics by product
+
+3. Interactivity: Buttons, bookmarks for navigation, and images for appeal.
+
+4. Layout: Organized with section titles and consistent styling.
+
+5. Insights:
+
+Top-performing products, regional sales differences, seasonal trends, discount effects, and COGS correlations.
+
+How to Run
+----------
+
+1. Open Power BI Desktop.
+2. Load the dataset.
+3. Explore visuals, buttons, and filters for insights.
+
+Files
+
+Financial_overview assignment.pbix: Power BI report.
+
+README.md: Project overview.
+
+Conclusion
+-----------
+
+This project demonstrates effective data analysis and reporting with Power BI, making it a strong addition to your portfolio.
